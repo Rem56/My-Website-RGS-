@@ -2,7 +2,6 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="My Website (RGS).css"/>
-<title> My Website-RGS </title>
 
 </head>
 <body>
